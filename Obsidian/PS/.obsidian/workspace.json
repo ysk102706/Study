@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "b5d678259a1307cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5ca92bae139ff90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e9137b3a567008",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b13f783d3bbc761d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1bc665d7063948f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3a9d9e0ed147d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d05823ae66faefbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8ddcdf113ec4609",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "06006a25207d8b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "69e7fda6b1c74b21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "193d32700c74e71c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21e745fc5b1e7c5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3f3ea384c791efc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36653af86431bdba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "3b3a9d9e0ed147d4",
+  "lastOpenFiles": [
+    "무제 파일.canvas",
+    "무제 파일.md",
+    "기초 자료구조/딕셔너리 구조(Dictionary Structure)/연관 배열(Associative array, Map, Dictionary).md",
+    "기초 자료구조/선형 구조(Linear Structure)/연결 리스트(Linked List).md",
+    "기초 자료구조/선형 구조(Linear Structure)/리스트(List).md",
+    "기초 자료구조/비선형 구조(Non-Linear Structure)/그래프(Graph).md",
+    "기초 자료구조/비선형 구조(Non-Linear Structure)/유향 그래프(Directed Graph).md",
+    "기초 자료구조/비선형 구조(Non-Linear Structure)/이진 트리(Binary Tree).md",
+    "기초 자료구조/비선형 구조(Non-Linear Structure)/트리(Tree).md",
+    "기초 자료구조/비선형 구조(Non-Linear Structure)/B-tree.md",
+    "기초 자료구조/선형 구조(Linear Structure)/단순 연결 리스트(Singly Linked List).md",
+    "알고리즘 및 자료 구조/수학/밀러 라빈 소수 판별법(Miller Rabin Primality Test).md",
+    "알고리즘 및 자료 구조/수학/폴라드-로(Pollard's rho).md",
+    "알고리즘 및 자료 구조/수학/오일러 피 함수(Euler's phi function).md",
+    "알고리즘 및 자료 구조/수학/에라토스테네스의 체(Eratosthenes's Sieve).md",
+    "알고리즘 및 자료 구조/분리 집합(Disjoint Set).md",
+    "알고리즘 및 자료 구조/수학",
+    "알고리즘 및 자료 구조/누적합(Prefix Sum).md",
+    "알고리즘 및 자료 구조/그리디(Greedy).md",
+    "알고리즘 및 자료 구조",
+    "기타/festio.md",
+    "기초 자료구조/딕셔너리 구조(Dictionary Structure)/해시 테이블(Hash Table).md",
+    "기타/stdc++.h.md",
+    "기타",
+    "기초 자료구조/비선형 구조(Non-Linear Structure)/힙(Heap).md",
+    "기초 자료구조/비선형 구조(Non-Linear Structure)/가중치 그래프(Weighted Graph).md",
+    "기초 자료구조/비선형 구조(Non-Linear Structure)/다중 그래프(Multi Graph).md",
+    "기초 자료구조/선형 구조(Linear Structure)/큐(Queue).md",
+    "기초 자료구조/선형 구조(Linear Structure)/스택(Stack).md",
+    "Pasted image 20240416122505.png",
+    "이미지/Singly Linked List.png",
+    "이미지",
+    "기초 자료구조/딕셔너리 구조(Dictionary Structure)",
+    "기초 자료구조/비선형 구조(Non-Linear Structure)",
+    "기초 자료구조/선형 구조(Linear Structure)",
+    "선형 구조(Linear Structure",
+    "기초 자료구조"
+  ]
+}
