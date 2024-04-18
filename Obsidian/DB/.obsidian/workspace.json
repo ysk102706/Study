@@ -1,0 +1,511 @@
+{
+  "main": {
+    "id": "5e4006249bd2d9b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "882c36a17d2cec17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "683b5cc448fbd7f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/친절한 SQL 튜닝/기본 DML 튜닝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d42ca407f18d0c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심노트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb1c720fa70ecb88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/데이터베이스 아키텍처.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "245ce6e0c8719485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 처리 과정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc5fbb58b19e9e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/데이터베이스 IO 메커니즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ecadbdfb42d61e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/예상 실행계획.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6f17896f75c8059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 트레이스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb854587f28e62ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/응답 시간 분석.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13d9d5cf0eb66cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 기본 원리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c702c593bf38257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/테이블 액세스 최소화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f748619b99b2b096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 스캔 효율화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dd949238a2b4f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 설계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17fffff81956da98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/NL 조인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c473b52f2e92cd4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/소트머지 조인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8f4f82147439aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/해시 조인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adc4435412c89ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/스칼라 서브 쿼리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a54309b448d88338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 옵티마이징 원리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33e901b99e53bc78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 공유 및 재사용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cb97057015e0b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/쿼리 변환.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6eecbe815b9559f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/소트 튜닝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95f4871e9273aaa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/DML 튜닝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5da0b17ff50cda50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/데이터베이스 Call 최소화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "141eb6a31a04ecab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/파티셔닝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "576421a5d06c9265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/대용량 배치 프로그램 튜닝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c3bb6009f5a3628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/Lock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4fe60f2153bd7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/트랜잭션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "707e73ac38272c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/대용량 배치 프로그램 튜닝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ac22b9ed70f068f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "찾아 볼거.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 27
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "183a7074327e036f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecc85770a6c1d710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48314a834e2bb1b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40a600759cc2db3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c2d8b71c533b2ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a0fd5603af89c9b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "309710c753a6ae7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3601bf83821a0eb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "찾아 볼거.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc7a7b639dc66096",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "찾아 볼거.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95a1fbe0591b917b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f481ebb0c44018b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "찾아 볼거.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "3ac22b9ed70f068f",
+  "lastOpenFiles": [
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/대용량 배치 프로그램 튜닝.md",
+    "찾아 볼거.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심노트.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/동시성 제어.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/트랜잭션.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/Lock.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/파티셔닝.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/데이터베이스 Call 최소화.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/DML 튜닝.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/소트 튜닝.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/쿼리 변환.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 공유 및 재사용.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 옵티마이징 원리.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/스칼라 서브 쿼리.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/해시 조인.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/소트머지 조인.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/NL 조인.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 설계.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 스캔 효율화.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/테이블 액세스 최소화.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 기본 원리.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/응답 시간 분석.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 트레이스.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/예상 실행계획.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/데이터베이스 IO 메커니즘.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 처리 과정.md",
+    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트",
+    "SQLP/2차/친절한 SQL 튜닝",
+    "SQLP/1차/핵심노트",
+    "Pasted image 20240418082800.png",
+    "Pasted image 20240418082739.png",
+    "SQLP/2차",
+    "SQLP/1차",
+    "SQLP"
+  ]
+}
