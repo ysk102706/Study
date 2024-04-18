@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "5e4006249bd2d9b5",
+    "id": "33d8876fd4795cb8",
     "type": "split",
     "children": [
       {
-        "id": "91e873f82b9ec2f6",
+        "id": "1a5ae92554109547",
         "type": "tabs",
         "children": [
           {
-            "id": "880d8f961ae14b89",
+            "id": "399e4a494c5ca3d4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "183a7074327e036f",
+    "id": "48eef0aef970969d",
     "type": "split",
     "children": [
       {
-        "id": "ecc85770a6c1d710",
+        "id": "bc22ea7aa28d8a50",
         "type": "tabs",
         "children": [
           {
-            "id": "48314a834e2bb1b2",
+            "id": "fb13dc29f6d2c06e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "40a600759cc2db3e",
+            "id": "fbed37afd740adae",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "7c2d8b71c533b2ef",
+            "id": "bf7e4e5f34747a6a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a0fd5603af89c9b3",
+    "id": "5d8250696d50d349",
     "type": "split",
     "children": [
       {
-        "id": "309710c753a6ae7f",
+        "id": "156aa3c507dbf30f",
         "type": "tabs",
         "children": [
           {
-            "id": "3601bf83821a0eb5",
+            "id": "253d40e01254208a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "dc7a7b639dc66096",
+            "id": "abc901a24f6ff3ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "95a1fbe0591b917b",
+            "id": "9bf5862af21e7cdd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +114,13 @@
             }
           },
           {
-            "id": "2f481ebb0c44018b",
+            "id": "8a583e13645b9f7e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           }
         ]
@@ -138,41 +140,8 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "880d8f961ae14b89",
+  "active": "fb13dc29f6d2c06e",
   "lastOpenFiles": [
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심노트.md",
-    "SQLP/2차/친절한 SQL 튜닝.md",
-    "SQLP/1차/핵심노트.md",
-    "SQLP/1차/핵심노트/데이터베이스 Call 최소화.md",
-    "SQLP/1차/핵심노트/데이터베이스 아키텍처.md",
-    "찾아 볼거.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/대용량 배치 프로그램 튜닝.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/트랜잭션.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/Lock.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/파티셔닝.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/데이터베이스 Call 최소화.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/DML 튜닝.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/소트 튜닝.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/쿼리 변환.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 공유 및 재사용.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 옵티마이징 원리.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/스칼라 서브 쿼리.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/해시 조인.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/소트머지 조인.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/NL 조인.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 설계.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 스캔 효율화.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/테이블 액세스 최소화.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 기본 원리.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/응답 시간 분석.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 트레이스.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트",
-    "SQLP/2차/친절한 SQL 튜닝",
-    "SQLP/1차/핵심노트",
-    "Pasted image 20240418082800.png",
-    "Pasted image 20240418082739.png",
-    "SQLP/2차",
-    "SQLP/1차",
-    "SQLP"
+    "Welcome.md"
   ]
 }
