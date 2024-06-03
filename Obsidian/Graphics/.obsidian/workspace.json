@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "cf86f31d702b9678",
+    "type": "split",
+    "children": [
+      {
+        "id": "89e8246f762e7381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8ce88bbd1829cdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/WndProc(Window Procedure).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59b517dee1b0e9b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5689e7573e8b8f68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f458d2f662db677",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b92dcc115611e3eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a9b63fe8db43678",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "37c8dc369563cad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d228ad160455bf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "800662237c31c733",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows/WndProc(Window Procedure).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ff0196e627b6bd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Windows/WndProc(Window Procedure).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31c5cf0dc1994d4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d649a88e83321f0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Windows/WndProc(Window Procedure).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "6f458d2f662db677",
+  "lastOpenFiles": [
+    "Windows/wWinMain.md",
+    "Windows/WNDCLASS.md",
+    "Windows/HINSTANCE(Handle Instance), HWND(Handle Windows).md",
+    "Math/정점 좌표계 변환.md",
+    "Graphics Knowledge/Graphics Pipeline(Rendering Pipeline).md",
+    "Graphics Knowledge/Primitive Data.md",
+    "Graphics Knowledge/SwapChain.md",
+    "Graphics Knowledge/Vertex Data.md",
+    "DirectX/COM(Component Object Model) 객체, ComPtr.md",
+    "DirectX/DXGI(DirectX Graphic Infrastructure).md",
+    "DirectX/ID3D11Device, ID3D11DeviceContext, IDXGISwapChain, ID3D11RenderTargetView.md",
+    "DirectX/Viewport.md",
+    "Windows/WndProc(Window Procedure).md",
+    "Graphics Knowledge",
+    "Math",
+    "Windows",
+    "DirectX",
+    "Welcome.md"
+  ]
+}

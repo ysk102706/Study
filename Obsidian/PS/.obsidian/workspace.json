@@ -11,8 +11,12 @@
             "id": "e0e9137b3a567008",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "기초 자료구조/선형 구조(Linear Structure)/리스트(List).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "기초 자료구조/선형 구조(Linear Structure)/리스트(List).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "기초 자료구조/선형 구조(Linear Structure)/리스트(List).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "기초 자료구조/선형 구조(Linear Structure)/리스트(List).md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3b3a9d9e0ed147d4",
+  "active": "e0e9137b3a567008",
   "lastOpenFiles": [
     "무제 파일.canvas",
     "무제 파일.md",
