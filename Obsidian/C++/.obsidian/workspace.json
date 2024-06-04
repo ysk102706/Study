@@ -4,107 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1a5ae92554109547",
+        "id": "a438c7d61782c883",
         "type": "tabs",
         "children": [
           {
-            "id": "399e4a494c5ca3d4",
+            "id": "15bda92ca1fcebd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "이름 공간(namespace).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b937c8c6e10f8f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "참조자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0d17a305609a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new, delete.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "391c1e2e74990720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "생성자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "098b7fdbedd4ff9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "생성자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe1ebd7785bcec20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "explicit, mutable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af9f9eeb69b290ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "explicit, mutable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7734a2ce9e9a30ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연산자 오버로딩.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연산자 오버로딩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연산자 오버로딩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연산자 오버로딩.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -231,17 +138,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7734a2ce9e9a30ee",
+  "active": "15bda92ca1fcebd0",
   "lastOpenFiles": [
-    "무제 파일.canvas",
-    "연산자 오버로딩.md",
-    "참조자.md",
     "explicit, mutable.md",
     "상수 함수.md",
-    "생성자.md",
-    "이름 공간(namespace).md",
-    "소멸자.md",
     "new, delete.md",
+    "참조자.md",
+    "이름 공간(namespace).md",
+    "연산자 오버로딩.md",
+    "소멸자.md",
+    "생성자.md",
+    "무제 파일.canvas",
     "Welcome.md"
   ]
 }
