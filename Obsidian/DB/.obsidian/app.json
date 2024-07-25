@@ -1,1 +1,5 @@
-{}
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "tabSize": 2
+}

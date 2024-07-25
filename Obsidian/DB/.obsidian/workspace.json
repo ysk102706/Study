@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "880d8f961ae14b89",
+            "id": "259d3e3b3cb695bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQLP/3차/참고한 것들.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQLP/3차/참고한 것들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQLP/3차/참고한 것들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQLP/3차/참고한 것들.md"
+              }
             }
           }
         ]
@@ -138,14 +146,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "880d8f961ae14b89",
+  "active": "259d3e3b3cb695bb",
   "lastOpenFiles": [
     "SQLP/2차/국가공인 SQLP 자격검정 핵심노트.md",
     "SQLP/2차/친절한 SQL 튜닝.md",
+    "SQLP/3차/참고한 것들.md",
+    "SQLP/2차/친절한 SQL 튜닝/기본 DML 튜닝.md",
+    "SQLP/3차/SQL 전문가 가이드/1 과목 데이터 모델링의 이해/1장 데이터 모델링의 이해.md",
+    "무제 파일 1.md",
+    "무제 파일 2.md",
+    "SQLP/3차/SQL 전문가 가이드/1 과목 데이터 모델링의 이해",
+    "SQLP/3차/SQL 전문가 가이드",
+    "찾아 볼거.md",
+    "SQLP/3차",
     "SQLP/1차/핵심노트.md",
     "SQLP/1차/핵심노트/데이터베이스 Call 최소화.md",
     "SQLP/1차/핵심노트/데이터베이스 아키텍처.md",
-    "찾아 볼거.md",
     "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/대용량 배치 프로그램 튜닝.md",
     "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/트랜잭션.md",
     "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/Lock.md",
@@ -160,12 +176,6 @@
     "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/해시 조인.md",
     "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/소트머지 조인.md",
     "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/NL 조인.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 설계.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 스캔 효율화.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/테이블 액세스 최소화.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/인덱스 기본 원리.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/응답 시간 분석.md",
-    "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트/SQL 트레이스.md",
     "SQLP/2차/국가공인 SQLP 자격검정 핵심 노트",
     "SQLP/2차/친절한 SQL 튜닝",
     "SQLP/1차/핵심노트",
