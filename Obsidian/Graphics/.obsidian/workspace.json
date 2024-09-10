@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/WndProc(Window Procedure).md",
+                "file": "DirectX/ID3D11Device, ID3D11DeviceContext, IDXGISwapChain, ID3D11RenderTargetView.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd26c6b29aae38a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f6ba694fab9dcde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/WndProc(Window Procedure).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/WndProc(Window Procedure).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/WndProc(Window Procedure).md"
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md"
               }
             }
           }
@@ -146,21 +171,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6f458d2f662db677",
+  "active": "8f6ba694fab9dcde",
   "lastOpenFiles": [
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1",
+    "DirectX/ID3D11Device, ID3D11DeviceContext, IDXGISwapChain, ID3D11RenderTargetView.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스",
+    "GraphicsKnowledge/Graphics Pipeline(Rendering Pipeline).md",
+    "GraphicsKnowledge/Primitive Data.md",
+    "GraphicsKnowledge/SwapChain.md",
+    "Windows/WndProc(Window Procedure).md",
+    "Graphics/Welcome.md",
     "Windows/wWinMain.md",
     "Windows/WNDCLASS.md",
     "Windows/HINSTANCE(Handle Instance), HWND(Handle Windows).md",
     "Math/정점 좌표계 변환.md",
-    "GraphicsKnowledge/Graphics Pipeline(Rendering Pipeline).md",
-    "GraphicsKnowledge/Primitive Data.md",
-    "GraphicsKnowledge/SwapChain.md",
     "GraphicsKnowledge/Vertex Data.md",
     "DirectX/COM(Component Object Model) 객체, ComPtr.md",
     "DirectX/DXGI(DirectX Graphic Infrastructure).md",
-    "DirectX/ID3D11Device, ID3D11DeviceContext, IDXGISwapChain, ID3D11RenderTargetView.md",
     "DirectX/Viewport.md",
-    "Windows/WndProc(Window Procedure).md",
     "GraphicsKnowledge",
     "Math",
     "Windows",

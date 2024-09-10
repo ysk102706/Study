@@ -59,7 +59,7 @@ HRESULT ret = device.Get()->CreateRenderTargetView(
 	// 렌더타겟 뷰가 엑세스하는 리소스
 	backbufferTexture,
 	// D3D11_RENDER_TARGET_VIEW_DESC의 포인터
-	nullptr
+	nullptr,
 	// ID3D11RenderTargetView의 포인터
 	renderTargetView.GetAddressOf()
 );
