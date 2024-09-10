@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27cecb3d5a649843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "함수 포인터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56918459b66622f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "참조자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b01cdca6a1c23dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "디폴트 인수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f572a620dbdf530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++에서의 함수 호출 과정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c19fca76d884d2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인라인 함수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ 실행 파일 생성.md",
+                "file": "인라인 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ 실행 파일 생성.md",
+                "file": "인라인 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ 실행 파일 생성.md"
+                "file": "인라인 함수.md"
               }
             }
           }
@@ -146,15 +207,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15bda92ca1fcebd0",
+  "active": "c19fca76d884d2ea",
   "lastOpenFiles": [
-    "C++/Welcome.md",
+    "디폴트 인수.md",
+    "인라인 함수.md",
+    "C++에서의 함수 호출 과정.md",
+    "참조자.md",
+    "함수 포인터.md",
     "C++ 실행 파일 생성.md",
+    "C++/Welcome.md",
     "무제 폴더",
     "explicit, mutable.md",
     "상수 함수.md",
     "new, delete.md",
-    "참조자.md",
     "이름 공간(namespace).md",
     "연산자 오버로딩.md",
     "소멸자.md",
