@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md"
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md"
               }
             }
           }
@@ -171,10 +171,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8f6ba694fab9dcde",
+  "active": "6f458d2f662db677",
   "lastOpenFiles": [
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Diffuse.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/구-직선 충돌/Line–sphere intersection (구-직선 교차점).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Ambient.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/구-직선 충돌",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1",
     "DirectX/ID3D11Device, ID3D11DeviceContext, IDXGISwapChain, ID3D11RenderTargetView.md",
