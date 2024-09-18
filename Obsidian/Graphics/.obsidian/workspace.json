@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "89e8246f762e7381",
+        "id": "18217a25f4595a39",
         "type": "tabs",
         "children": [
           {
-            "id": "c8ce88bbd1829cdf",
+            "id": "fd7352af8b71e43f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DirectX/ID3D11Device, ID3D11DeviceContext, IDXGISwapChain, ID3D11RenderTargetView.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd26c6b29aae38a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f6ba694fab9dcde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md"
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md"
               }
             }
           }
@@ -171,11 +146,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6f458d2f662db677",
+  "active": "fd7352af8b71e43f",
   "lastOpenFiles": [
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/그림자.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/무제 폴더",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/Line–sphere intersection (구-직선 교차점).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer",
+    "Math/정점 좌표계 변환.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/삼각형-광선 충돌",
+    "DirectX/ID3D11Device, ID3D11DeviceContext, IDXGISwapChain, ID3D11RenderTargetView.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Diffuse.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/구-직선 충돌/Line–sphere intersection (구-직선 교차점).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Ambient.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model",
@@ -183,7 +165,6 @@
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1",
-    "DirectX/ID3D11Device, ID3D11DeviceContext, IDXGISwapChain, ID3D11RenderTargetView.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스",
     "GraphicsKnowledge/Graphics Pipeline(Rendering Pipeline).md",
     "GraphicsKnowledge/Primitive Data.md",
@@ -193,15 +174,12 @@
     "Windows/wWinMain.md",
     "Windows/WNDCLASS.md",
     "Windows/HINSTANCE(Handle Instance), HWND(Handle Windows).md",
-    "Math/정점 좌표계 변환.md",
     "GraphicsKnowledge/Vertex Data.md",
     "DirectX/COM(Component Object Model) 객체, ComPtr.md",
     "DirectX/DXGI(DirectX Graphic Infrastructure).md",
     "DirectX/Viewport.md",
     "GraphicsKnowledge",
     "Math",
-    "Windows",
-    "DirectX",
     "Welcome.md"
   ]
 }
