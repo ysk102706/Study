@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/그림자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4169085a6073299a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Texturing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Texturing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Texturing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md"
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Texturing.md"
               }
             }
           }
@@ -146,12 +159,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fd7352af8b71e43f",
+  "active": "4169085a6073299a",
   "lastOpenFiles": [
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/그림자.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/무게 중심 좌표계(Barycentric Coordinates).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Texturing.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/무제 폴더",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/그림자.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/Line–sphere intersection (구-직선 교차점).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/무제 폴더",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer",
     "Math/정점 좌표계 변환.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/삼각형-광선 충돌",
@@ -159,10 +177,8 @@
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Diffuse.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Ambient.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/구-직선 충돌",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1",
     "홍정모의 컴퓨터 그래픽스 새싹코스",
@@ -179,7 +195,6 @@
     "DirectX/DXGI(DirectX Graphic Infrastructure).md",
     "DirectX/Viewport.md",
     "GraphicsKnowledge",
-    "Math",
     "Welcome.md"
   ]
 }
