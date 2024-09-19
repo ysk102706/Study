@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Super Sampling(슈퍼 샘플링).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/표면 반사.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Super Sampling(슈퍼 샘플링).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/표면 반사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Super Sampling(슈퍼 샘플링).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/표면 반사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Super Sampling(슈퍼 샘플링).md"
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/표면 반사.md"
               }
             }
           }
@@ -161,14 +161,17 @@
   },
   "active": "4169085a6073299a",
   "lastOpenFiles": [
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/무게 중심 좌표계(Barycentric Coordinates).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/표면 반사.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/무제 폴더",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/Line–sphere intersection (구-직선 교차점).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Super Sampling(슈퍼 샘플링).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/무게 중심 좌표계(Barycentric Coordinates).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Texturing.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/그림자.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/Line–sphere intersection (구-직선 교차점).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/무제 폴더",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer",
@@ -176,7 +179,6 @@
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/삼각형-광선 충돌",
     "DirectX/ID3D11Device, ID3D11DeviceContext, IDXGISwapChain, ID3D11RenderTargetView.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Diffuse.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Ambient.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/구-직선 충돌",
@@ -194,8 +196,6 @@
     "GraphicsKnowledge/Vertex Data.md",
     "DirectX/COM(Component Object Model) 객체, ComPtr.md",
     "DirectX/DXGI(DirectX Graphic Infrastructure).md",
-    "DirectX/Viewport.md",
-    "GraphicsKnowledge",
-    "Welcome.md"
+    "DirectX/Viewport.md"
   ]
 }
