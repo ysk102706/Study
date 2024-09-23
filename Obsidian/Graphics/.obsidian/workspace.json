@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "18217a25f4595a39",
+        "id": "db6ab0e3fb9ec989",
         "type": "tabs",
         "children": [
           {
-            "id": "fd7352af8b71e43f",
+            "id": "29bdb95c1d165ad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/그림자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4169085a6073299a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Transparency(굴절).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/DepthBuffer(깊이 버퍼).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Transparency(굴절).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/DepthBuffer(깊이 버퍼).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Transparency(굴절).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/DepthBuffer(깊이 버퍼).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Transparency(굴절).md"
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/DepthBuffer(깊이 버퍼).md"
               }
             }
           }
@@ -159,15 +146,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4169085a6073299a",
+  "active": "29bdb95c1d165ad0",
   "lastOpenFiles": [
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/무제 폴더",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Reflection(반사).md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/레스터화의 원리/Rasterization(레스터화)이 빠른 이유.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/DepthBuffer(깊이 버퍼).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Transparency(굴절).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/레스터화의 원리",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Diffuse.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Super Sampling(슈퍼 샘플링).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/Line–sphere intersection (구-직선 교차점).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Super Sampling(슈퍼 샘플링).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/무제 폴더",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Reflection(반사).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/무게 중심 좌표계(Barycentric Coordinates).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Texturing.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
@@ -179,13 +171,10 @@
     "Math/정점 좌표계 변환.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/삼각형-광선 충돌",
     "DirectX/ID3D11Device, ID3D11DeviceContext, IDXGISwapChain, ID3D11RenderTargetView.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Diffuse.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Ambient.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/구-직선 충돌",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1",
-    "홍정모의 컴퓨터 그래픽스 새싹코스",
     "GraphicsKnowledge/Graphics Pipeline(Rendering Pipeline).md",
     "GraphicsKnowledge/Primitive Data.md",
     "GraphicsKnowledge/SwapChain.md",
@@ -194,7 +183,6 @@
     "Windows/wWinMain.md",
     "Windows/WNDCLASS.md",
     "Windows/HINSTANCE(Handle Instance), HWND(Handle Windows).md",
-    "GraphicsKnowledge/Vertex Data.md",
-    "DirectX/COM(Component Object Model) 객체, ComPtr.md"
+    "GraphicsKnowledge/Vertex Data.md"
   ]
 }
