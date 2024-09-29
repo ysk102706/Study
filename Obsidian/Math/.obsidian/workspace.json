@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "7568a7f83d2b033d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ff99be171bc72b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7276f54b01cb32e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "선형대수학/외적.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57d697b1b25a698c",
+    "type": "split",
+    "children": [
+      {
+        "id": "248f930b3d7fba30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddd18b4ba53d6354",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ae27500e0945f44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5945e85c938a59c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4bea4c6d19e8f621",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c3c8aabbaabe6d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f9a52cacc0f43fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "선형대수학/외적.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63906050f910fd02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "선형대수학/외적.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8ae995374f16850",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f69721ab036b78b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "선형대수학/외적.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "7276f54b01cb32e5",
+  "lastOpenFiles": [
+    "선형대수학/내적.md",
+    "선형대수학/외적.md",
+    "선형대수학/연립일차방정식의 기하적 해석.md",
+    "선형대수학/선형 결합, 생성, 기저 벡터.md",
+    "선형대수학/선형 변환의 합성과 행렬의 곱셈.md",
+    "선형대수학/행렬식.md",
+    "선형대수학/선형 변환과 행렬.md",
+    "선형대수학/벡터.md",
+    "Welcome.md",
+    "선형대수학"
+  ]
+}
