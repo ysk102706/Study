@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15bda92ca1fcebd0",
+            "id": "1925eb1ac88dc67c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ 실행 파일 생성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27cecb3d5a649843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "함수 포인터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56918459b66622f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "참조자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b01cdca6a1c23dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "디폴트 인수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f572a620dbdf530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++에서의 함수 호출 과정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c19fca76d884d2ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인라인 함수.md",
+                "file": "Operator Overloading(연산자 오버로딩).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인라인 함수.md",
+                "file": "Operator Overloading(연산자 오버로딩).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인라인 함수.md",
+                "file": "Operator Overloading(연산자 오버로딩).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인라인 함수.md"
+                "file": "Operator Overloading(연산자 오버로딩).md"
               }
             }
           }
@@ -207,14 +146,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c19fca76d884d2ea",
+  "active": "1925eb1ac88dc67c",
   "lastOpenFiles": [
-    "디폴트 인수.md",
-    "인라인 함수.md",
-    "C++에서의 함수 호출 과정.md",
-    "참조자.md",
-    "함수 포인터.md",
+    "Destructor(소멸자).md",
+    "Operator Overloading(연산자 오버로딩).md",
+    "Constructor(생성자).md",
+    "this 포인터.md",
+    "Class(클래스).md",
+    "Namespace(네임스페이스).md",
+    "Reference(참조자).md",
+    "변수의 종류.md",
     "C++ 실행 파일 생성.md",
+    "Inline Function(인라인 함수).md",
+    "C++에서의 함수 호출 과정.md",
+    "Default Argument(디폴트 인수).md",
+    "Function Pointer(함수 포인터).md",
     "C++/Welcome.md",
     "무제 폴더",
     "explicit, mutable.md",

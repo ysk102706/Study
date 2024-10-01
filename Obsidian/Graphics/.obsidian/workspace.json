@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/DepthBuffer(깊이 버퍼).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Rasterization/Perspective-Correct Interpolation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/DepthBuffer(깊이 버퍼).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Rasterization/Perspective-Correct Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/DepthBuffer(깊이 버퍼).md",
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Rasterization/Perspective-Correct Interpolation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/DepthBuffer(깊이 버퍼).md"
+                "file": "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Rasterization/Perspective-Correct Interpolation.md"
               }
             }
           }
@@ -148,21 +148,25 @@
   },
   "active": "29bdb95c1d165ad0",
   "lastOpenFiles": [
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/레스터화의 원리/Rasterization(레스터화)이 빠른 이유.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/DepthBuffer(깊이 버퍼).md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Transparency(굴절).md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/레스터화의 원리",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Diffuse.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Rasterization/Perspective-Correct Interpolation.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Specular.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Super Sampling(슈퍼 샘플링).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Texturing.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Rasterization/Blinn-Phong Shading.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Shader",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Rasterization/Back-face Culling(뒷면 제거).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Transparency(굴절).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Reflection(반사).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/Line–sphere intersection (구-직선 교차점).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Rasterization/DepthBuffer(깊이 버퍼).md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Rasterization/Rasterization(레스터화)이 빠른 이유.md",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2/Rasterization",
+    "홍정모의 컴퓨터 그래픽스 새싹코스/Part2",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/삼각형과 광선의 충돌.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/무제 폴더",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Reflection(반사).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/무게 중심 좌표계(Barycentric Coordinates).md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing/Texturing.md",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Gaussian blur(가우시안 블러).md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)/Bloom(블룸) 효과 만들기.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/RayTracer/그림자.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Texturing",
@@ -174,15 +178,11 @@
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model/Ambient.md",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Phong Reflection Model",
     "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/구-직선 충돌",
-    "홍정모의 컴퓨터 그래픽스 새싹코스/Part1/Bloom(블룸)",
     "GraphicsKnowledge/Graphics Pipeline(Rendering Pipeline).md",
     "GraphicsKnowledge/Primitive Data.md",
     "GraphicsKnowledge/SwapChain.md",
     "Windows/WndProc(Window Procedure).md",
     "Graphics/Welcome.md",
-    "Windows/wWinMain.md",
-    "Windows/WNDCLASS.md",
-    "Windows/HINSTANCE(Handle Instance), HWND(Handle Windows).md",
-    "GraphicsKnowledge/Vertex Data.md"
+    "Windows/wWinMain.md"
   ]
 }

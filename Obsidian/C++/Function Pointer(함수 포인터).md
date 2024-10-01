@@ -44,7 +44,6 @@ int main() {
 ```cpp
 // typedef 키워드 이용
 typedef int (*Func)(int, int);
-
 Func ptr_func = Function;
 
 // auto 키워드 이용 
