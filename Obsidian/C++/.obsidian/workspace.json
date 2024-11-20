@@ -4,119 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a438c7d61782c883",
+        "id": "437dac98cc685da4",
         "type": "tabs",
         "children": [
           {
-            "id": "1925eb1ac88dc67c",
+            "id": "490499e21348d8a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operator Overloading(연산자 오버로딩).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "947e99bc65b96694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "friend(프렌드).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30e5aa57dfdf40ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Function(가상 함수).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b78cfa791224f89c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstract Class(추상 클래스).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0825e9951afdc2da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template(템플릿).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "498a0e11a38ec6e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Smart Pointer(스마트 포인터).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "683df233fc88c838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iterator(반복자).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12f0f6ac880a670d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Container(컨테이너).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb99a9dcf52b77f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Function object(함수 객체).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Function object(함수 객체).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Function object(함수 객체).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Function object(함수 객체).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -243,10 +138,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "eb99a9dcf52b77f6",
+  "active": "490499e21348d8a3",
   "lastOpenFiles": [
-    "Container(컨테이너).md",
     "Function object(함수 객체).md",
+    "Container(컨테이너).md",
     "Iterator(반복자).md",
     "Smart Pointer(스마트 포인터).md",
     "template(템플릿).md",

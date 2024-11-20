@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "선형대수학/외적.md",
+                "file": "선형대수학/행렬식.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "선형대수학/외적.md",
+                "file": "선형대수학/행렬식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "선형대수학/외적.md",
+                "file": "선형대수학/행렬식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "선형대수학/외적.md"
+                "file": "선형대수학/행렬식.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "7276f54b01cb32e5",
   "lastOpenFiles": [
-    "선형대수학/내적.md",
-    "선형대수학/외적.md",
-    "선형대수학/연립일차방정식의 기하적 해석.md",
+    "선형대수학/선형 변환과 행렬.md",
     "선형대수학/선형 결합, 생성, 기저 벡터.md",
+    "선형대수학/외적.md",
+    "선형대수학/내적.md",
+    "선형대수학/연립일차방정식의 기하적 해석.md",
     "선형대수학/선형 변환의 합성과 행렬의 곱셈.md",
     "선형대수학/행렬식.md",
-    "선형대수학/선형 변환과 행렬.md",
     "선형대수학/벡터.md",
     "Welcome.md",
     "선형대수학"
